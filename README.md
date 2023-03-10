@@ -1,4 +1,4 @@
-# 12in23 ![](https://geps.dev/progress/14)
+# 12in23 ![](https://geps.dev/progress/24)
 Repository containing solutions to Exercism's featured and non-featured exercises for the year long challenge. #12in23
 
 ### 📆 Month 2 of #12in23, Functional February
