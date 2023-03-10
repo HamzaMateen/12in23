@@ -1,4 +1,4 @@
-# 12in23 ![](https://geps.dev/progress/24)
+# 12in23 ![](https://geps.dev/progress/20)
 Repository containing solutions to Exercism's featured and non-featured exercises for the year long challenge. #12in23
 
 ### 📆 Month 2 of #12in23, Functional February
@@ -14,7 +14,7 @@ Repository containing solutions to Exercism's featured and non-featured exercise
 
 ### 📆 Month 3 of #12in23, Mechanical March 
 ##### System Languages
-- [ ] Rust
+- [x] Rust
 
 ##### Featured Exercises
 - [ ] Linked List (or Simple Linked List)
