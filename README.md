@@ -1,4 +1,4 @@
-# 12in23 ![](https://geps.dev/progress/20)
+# 12in23 ![](https://geps.dev/progress/30)
 Repository containing solutions to Exercism's featured and non-featured exercises for the year long challenge. #12in23
 
 ### 📆 Month 2 of #12in23, **Functional February**
@@ -35,7 +35,7 @@ Repository containing solutions to Exercism's featured and non-featured exercise
 - [ ] word-count: convert a string into words and count them
 
 ### 📆 Month 5 of #12in23, **Mindshifting May** 
-##### System Languages
+##### Mindbending Languages
 - [x] Unison
 
 ##### Featured Exercises
