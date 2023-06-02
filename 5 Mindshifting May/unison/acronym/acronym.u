@@ -1,0 +1,7 @@
+abbreviate : Text -> Text
+abbreviate input = let 
+    input 
+        |> dropWhile (is (not (anyOf [?\s, ?-] + alphanumeric)))
+        |> segmentBy ((c -> (c Char.== ?\s) || (c Char.== ?-)) >> not)     
+        |> List.map (elem -> Text.toUppercase (Text.take 1 elem))    
+        |> Text.join "" 

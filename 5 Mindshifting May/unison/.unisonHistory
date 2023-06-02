@@ -1,0 +1,63 @@
+ui
+cd "hello-world"
+clear
+cd hello-world
+load hello.test.u
+clear
+clear
+add 
+ls
+clear
+add 
+clear
+ls
+cd ..
+ls
+clear
+add .
+ls
+cd acronym
+ls
+add 
+clear
+clear
+./hello
+hello
+update hello
+ls
+?
+pwd
+cwd
+load acronym.u
+load
+add acronym.u
+update
+add 
+add
+add abbreviate
+ls
+clear
+ls
+cd ..
+ls
+clear
+ls
+cd acronym
+cd ..
+ls
+cd ..
+cd acronym
+cd acronum
+ls
+clear
+ls
+ls
+cd ..
+ui
+ls
+cd acronym
+ui
+find : Nat -> Nat
+Nat
+find : Text -> [Char]
+find : Text -> [Char]

@@ -1,0 +1,6 @@
+use base Text
+hello : Text
+hello = "!"
+
+
+> hello

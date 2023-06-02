@@ -1,4 +1,4 @@
-# 12in23 ![](https://geps.dev/progress/30)
+# 12in23 ![](https://geps.dev/progress/45)
 Repository containing solutions to Exercism's featured and non-featured exercises for the year long challenge. #12in23
 
 ### 📆 Month 2 of #12in23, **Functional February**
@@ -36,7 +36,8 @@ Repository containing solutions to Exercism's featured and non-featured exercise
 
 ### 📆 Month 5 of #12in23, **Mindshifting May** 
 ##### Mindbending Languages
-- [x] Unison
+- [ ] Unison
+- [x] Ballerina
 
 ##### Featured Exercises
 - [ ] Acronym: convert a phrase to its acronym
